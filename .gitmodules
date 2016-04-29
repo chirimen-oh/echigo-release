@@ -1,0 +1,3 @@
+[submodule "software/B2G"]
+	path = software/B2G
+	url = https://github.com/chirimen-oh/B2G
