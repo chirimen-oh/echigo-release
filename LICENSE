@@ -3,6 +3,9 @@ Please refer http://chirimen.org/license/
 =====
 
 Below is a copy of Licence document in Japanese. Official licence document is located on http://chirimen.org/license/
+The English-language edition license is described after the Japanese license. 
+
+=====
 
 CHIRIMEN Open Hardware 利用規約 第一版
 
@@ -63,4 +66,82 @@ CHIRIMEN のハードウェアに関する設計図等の各データは、Creat
 11.2. 本利用規約に起因し、または関連する一切の紛争については、訴額に応じて、東京地方裁判所または東京簡易裁判所を第一審の専属的合意管轄裁判所とします。  
 
 CHIRIMEN Open Hardware Community
-一般社団法人 Mozilla Japan 2016 年 4 月 28 日制定
+一般社団法人 Mozilla Japan 2016 年 4 月 30 日制定
+
+
+=====
+
+CHIRIMEN Open Hardware Terms of Use
+
+CHIRIMEN Open Hardware Terms of Use (“Terms of Use”) set forth the terms of use and other terms in connection with the public disclosure (“Project”) on the website where these Terms of Use are provided (“Website”) of, among others, software source codes and layouts and other data on hardware (collectively “Contents”) relating to “CHIRIMEN” (as defined below), which have been developed by CHIRIMEN Open Hardware Community (hereinafter, such community including all participants in such community shall be collectively referred to as “Community”) started up from the Mozilla Factory.
+
+1. Purpose
+
+The purpose of Project is to facilitate the research and development, which use CHIRIMEN, and to popularize CHIRIMEN, by the Community publicly disclosing the Contents to all users of Contents (“User”) pursuant to these Terms of Use. 
+
+2. CHIRIMEN and Community
+
+CHIRIMEN is a brand name of WoT development environment to be developed by the participants of Community, which is an open community. WoT (Web of Things) is a combination of software and hardware which can develop devices, services and applications through web technology in this era of IoT (Internet of Things) in which even hardware such as sensor and device is connected to the Internet. The Community is an operation entity for each activity relating to, among others, research and development of WoT environment using CHIRIMEN and for each activity relating to promotion to popularize CHIRIMEN, and publicly discloses the Contents on the Website.
+
+3. Application of Terms of Use
+
+By downloading the Contents through this Website, User shall be deemed to have consented to these Terms of Use.
+
+4. Ownership in Trademark and Contents
+
+4.1. Following trademark (“Trademark”) is a registered trademark of Mozilla Japan (“MJ”):
+　　　Trademark: CHIRIMEN
+　　　Registration Number: 5821921 (Japan) 
+
+4.2. Unless otherwise provided in these Terms of Use, any intellectual property rights, such as copyright (including rights under Articles 27 and 28 of Copyright Act of Japan and other rights under Copyright Act of Japan; hereinafter the same), patent right, utility model right, design right and trademark right (including the right to procure such intellectual property rights and the right to apply for registration of such intellectual property rights and to file other application relating to such intellectual property rights), and any and all other rights relating to the Trademark and Contents will be vested in MJ or any third party who granted a license to MJ.
+
+4.3. User’s right to the Contents will be limited to the scope of license expressly granted under these Terms of Use.
+
+5. Software Source Code
+
+Software Source Code on CHIRIMEN will be publicly disclosed and licensed from MJ to User under MOZILLA PUBLIC LICENSE VERSION 2.0. In case of any discrepancy between any provision in MOZILLA PUBLIC LICENSE VERSION 2.0 and any provision in these Terms of Use, the provision of these Terms of Use shall prevail.  
+
+These Terms of Use shall govern Software Source Code on CHIRIMEN, which has been developed independently from the Project and for which the application of licenses such as GNU General Public License and Apache License (“Other License”) cannot be ruled out, to the extent that these Terms of Use do not conflict with Other Licenses.
+
+6. Data on Hardware
+
+All data on CHIRIMEN hardware such as layouts of CHIRIMEN hardware will be publicly disclosed and licensed from MJ to User under Creative Commons License BY-SA 4.0 International; provided, however, that in case of any discrepancy between any provision in Creative Commons License BY-SA 4.0 International and any provision in these Terms of Use, the provision of these Terms of Use shall prevail.
+
+7. Use of CHIRIMEN’s Brand Name
+
+User may not attach the brand name “CHIRIMEN” on all or part of the name of any product developed and/or manufactured by such User by using the Contents (“User’s Product”); provided, however, that User may attach the indication “Based on CHIRIMEN technology” (“Licensed CHIRIMEN Indication”) on the packages of User’s products or documents such as product advertisements, product brochures or manuals (regardless of whether such documents are provided online or offline), to the extent that such product is developed and/or manufactured by using the Contents.  If User wishes to use any indications other than the Licensed CHIRIMEN Indication, such User is required to obtain MJ’s prior written approval.  If User wishes to use the indication other than the Licensed CHIRIMEN Indication, please contact the e-mail address provided below. 
+
+　　　E-mail address: mozillafactory@mozilla-japan.org    
+
+8. Disclaimer
+
+8.1. The Community and MJ make no express or implied warranty that the Website, Contents and licenses prescribed in these Terms of Use, in whole or in part, have no defects as a matter of fact and law (including, without limitation, defects on safety, reliability, accuracy, completeness, validity and conformity to specific purpose, errors and bugs, and infringement of rights).  The Community and MJ have no obligation to provide the Contents to User after removing such defects.
+
+8.2. The Community and MJ will not be liable for any disputes or damages arising in connection with the User’s use of all or part of Contents or the interpretation or application of any licenses prescribed in these Terms of Use.
+
+8.3. The Community and MJ make no warranty that the Contents will be available on the Website at all times.  The Community and MJ will not be liable for any damages to User or third party arising from the fact that the Community and MJ could not offer the Contents on the Website for any reason.
+
+8.4. It is assumed that User in the Project will be entity or individual who will conduct research and development by using CHIRIMEN.  The Community and MJ will not be liable for any damages incurred by User in the course of conducting research and development which use all or part of Contents.       
+
+9. Change in Offering Method and Contents
+
+9.1. The Community and MJ are entitled to change the contents of Contents, method of offering the Contents or terms of license or to discontinue the offering of Contents or license (“Change, etc.”) at any time without providing a prior notice to User.
+
+9.2. The Community and MJ will not be liable for any disputes or damages arising to User or third party in connection with the Change, etc.
+
+10. Amendment to Terms of Use
+
+10.1. The Community and MJ are entitled to amend the terms of these Terms of Use at any time without providing a prior notice to User.
+
+10.2. After any amendment to these Terms of Use, User will be deemed to have given valid and irrevocable approval on the amended Terms of Use by continuing to procure or use the Contents.
+
+11. Governing Law and Jurisdiction
+
+11.1. The original text of these Terms of Use is in Japanese language and these Terms of Use will be governed by the laws of Japan.
+
+11.2. Tokyo District Court or Tokyo Summary Court (depending on amount in controversy) will be the court of first instance with exclusive jurisdiction over any and all disputes arising from or relating to these Terms of Use. 
+
+CHIRIMEN Open Hardware Community
+Mozilla Japan
+Adopted on April 30, 2016
+  
