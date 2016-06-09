@@ -8,4 +8,4 @@ Information required in order to manufacture CHIRIMEN hardware CMN2015-1 is foun
 - CMN2015-1.pcb : Source PCB file for PADS CAD.
 - README.md : This file
 
-Note: CAD DATA might be published later. 
+Note: CAD DATA is published! 6.10.2016
